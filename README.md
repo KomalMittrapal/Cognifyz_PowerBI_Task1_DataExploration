@@ -60,7 +60,7 @@ Used **Power BI’s drag-and-drop visual tools** to perform analysis:
 
 | Overview |
 | :--: |
-| ![Dashboard View]("[C:\Users\komal\Downloads\Cognifyz_task1_dashboard_image.jpeg](https://drive.google.com/file/d/1Of1GKk0BHZFGPK1c0v30ETxqO0VLSfcA/view?usp=sharing)") | 
+| ![Dashboard View]("[[C:\Users\komal\Downloads\Cognifyz_task1_dashboard_image.jpeg](https://drive.google.com/file/d/1Of1GKk0BHZFGPK1c0v30ETxqO0VLSfcA/view?usp=sharing)](https://drive.google.com/file/d/1Of1GKk0BHZFGPK1c0v30ETxqO0VLSfcA/view?usp=sharing)") | 
 
 ---
 
