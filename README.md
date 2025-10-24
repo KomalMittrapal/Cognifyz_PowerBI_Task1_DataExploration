@@ -55,15 +55,6 @@ Used **Power BI’s drag-and-drop visual tools** to perform analysis:
 - Added clear titles, data labels, and alternate row colors in tables.  
 - Placed visuals in a **3×3 grid layout** for professional alignment.
 
-
-## 🖼️ Dashboard Preview
-
-| Overview |
-| :--: |
-| ![Dashboard View]("[[[C:\Users\komal\Downloads\Cognifyz_task1_dashboard_image.jpeg](https://drive.google.com/file/d/1Of1GKk0BHZFGPK1c0v30ETxqO0VLSfcA/view?usp=sharing)](https://drive.google.com/file/d/1Of1GKk0BHZFGPK1c0v30ETxqO0VLSfcA/view?usp=sharing)](https://drive.google.com/drive/my-drive)") | 
-
----
-
 ## 📊 Insights Summary
 
 1. **Average Age** of respondents ≈ *28 years*.  
