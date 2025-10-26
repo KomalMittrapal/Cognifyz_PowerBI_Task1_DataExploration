@@ -89,4 +89,4 @@ Successfully created an **interactive Power BI dashboard** for dataset explorati
 - Filtering and interactivity  
 
 ---
-*Created by Komal for the Data Analyst Internship Program.*
+*Created by Komal for the Power BI Internship Program.*
